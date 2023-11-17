@@ -1,8 +1,8 @@
 {
-    "name": "MiraiBypassD-Jukie",
+    "name": "Jabedch",
     "version": "1.2.14",
-    "description": "A simple Facebook Messenger Bot made by me(CatalizCS) and my brother SpermLord.",
-    "main": "mirai.js",
+    "description": "A simple Facebook Messenger Bot made by me(Jabedch)",
+    "main": "Jabedch.js",
     "scripts": {
         "start": "node index",
         "login": "node login",
@@ -10,14 +10,12 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/D-Jukie/miraiv2.git"
+        "url": "git+https://github.com/Jabedch/Jabed1"
     },
-    "author": "D-Jukie",
+    "author": "Jabedch",
     "license": "GPL-3.0",
     "dependencies": {
-        "simple-youtube-api": "",
         "@miraipr0ject/assets": "",
-        "helyt": "",
         "axios": "",
         "body-parser": "",
         "caesar-salad": "",
@@ -30,16 +28,21 @@
         "extract-zip": "",
         "figlet": "",
         "fs-extra": "",
+        "help": "^3.0.2",
+        "helyt": "",
         "jimp": "",
         "minimist": "",
         "moment-timezone": "",
         "ms": "",
         "npmlog": "",
         "path": "",
+        "putin": "0.0.1",
         "readline": "",
         "request": "",
         "semver": "",
         "sequelize": "",
+        "simple-youtube-api": "^5.2.1",
+        "sing": "^1.1.1",
         "sqlite3": "",
         "string-similarity": "",
         "totp-generator": ""
